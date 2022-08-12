@@ -9,6 +9,10 @@ using System.Windows.Forms;
 
 namespace MouseMover
 {
+    /// <summary>
+    /// This code was taken from: http://www.aspdotnet-pools.com/2017/10/move-mouse-cursor-automatically-c.html
+    /// Added Random class to do random moves.
+    /// </summary>
     public partial class Form1 : Form
     {
         public Form1()
